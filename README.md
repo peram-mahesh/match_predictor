@@ -12,12 +12,14 @@ This project aims to determine match potential between individuals based on thei
 
 ## 📁 Repository Structure
 
-.
-├── app.py # Streamlit app for predictions
-├── model (1).h5 # Trained Keras model
-├── Assessment - Form Responses.csv # Survey response dataset
-├── requirements.txt # Python dependencies
-└── README.md # Project overview (this file)
+```
+peram-mahesh/
+├── app.py                         # Streamlit app for predictions  
+├── model (1).h5                   # Trained Keras model  
+├── Assessment - Form Responses.csv  # Survey response dataset  
+├── requirements.txt              # Python dependencies  
+└── README.md                     # Project overview
+```
 
 
 ---
