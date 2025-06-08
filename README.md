@@ -1,12 +1,23 @@
 # 💖 Relationship Compatibility Predictor
 
-Predict relationship compatibility using survey data and a machine learning model trained with unsupervised clustering.
+Predict relationship compatibility using survey responses with the help of machine learning. This project combines **unsupervised clustering** to generate labels and a **supervised Artificial Neural Network (ANN)** to perform the final classification.
 
 ---
 
 ## 📌 Project Overview
 
-This project aims to determine match potential between individuals based on their responses to a compatibility survey. Using **unsupervised learning** (KMeans clustering) and a neural network classifier, it predicts whether two people are likely to be a good match.
+The Relationship Compatibility Predictor is designed to analyze answers from a relationship-based questionnaire and predict whether two individuals would make a good match. The project pipeline includes:
+
+- 📊 **Survey Data Collection** via Google Forms
+- 🏷️ **Label Generation using KMeans Clustering (Unsupervised Learning)**
+- 🧠 **Model Training using an Artificial Neural Network (Supervised Learning)**
+
+This hybrid approach allows the model to:
+- Discover natural clusters in respondent preferences (unsupervised),
+- Learn complex patterns for accurate classification (supervised).
+
+The final model is deployed through a **Streamlit** app, allowing users to input their answers and receive real-time compatibility predictions.
+
 
 ---
 
