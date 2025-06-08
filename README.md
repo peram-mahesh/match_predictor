@@ -103,7 +103,8 @@ peram-mahesh/
 └── README.md                     # Project overview
 ```
 
-👥 Authors
+## 👥 Authors
+
 Developed by Peram Mahesh
 
 • https://www.linkedin.com/in/peram-mahesh-536487269/
