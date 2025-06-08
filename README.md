@@ -79,16 +79,18 @@ peram-mahesh/
    git clone https://github.com/<your-username>/peram-mahesh.git
    cd peram-mahesh
    
-2.Install required packages
+2.**Install required packages**
 
 
 pip install -r requirements.txt
 
-3.Start the Streamlit app
+
+3. **Start the Streamlit app**
 
 streamlit run app.py
-🚀 Features
-Real-time compatibility prediction
+
+
+### 🚀 Features Real-time compatibility prediction
 
 Easy-to-use form interface
 
