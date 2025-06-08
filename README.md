@@ -10,16 +10,7 @@ This project aims to determine match potential between individuals based on thei
 
 ---
 
-## 📁 Repository Structure
 
-```
-peram-mahesh/
-├── app.py                         # Streamlit app for predictions  
-├── model (1).h5                   # Trained Keras model  
-├── Assessment - Form Responses.csv  # Survey response dataset  
-├── requirements.txt              # Python dependencies  
-└── README.md                     # Project overview
-```
 
 
 ---
@@ -97,6 +88,17 @@ Easy-to-use form interface
 Model built using real survey data
 
 Compact and efficient model inference
+
+## 📁 Repository Structure
+
+```
+peram-mahesh/
+├── app.py                         # Streamlit app for predictions  
+├── model (1).h5                   # Trained Keras model  
+├── Assessment - Form Responses.csv  # Survey response dataset  
+├── requirements.txt              # Python dependencies  
+└── README.md                     # Project overview
+```
 
 👥 Authors
 Developed by Peram Mahesh
