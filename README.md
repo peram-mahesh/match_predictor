@@ -12,9 +12,6 @@ This project aims to determine match potential between individuals based on thei
 
 
 
-
----
-
 ## 📊 1. Data Collection
 
 - Responses gathered using a **Google Form** with 12 questions.
@@ -80,6 +77,8 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+---
+
 
 ### 🚀 Features Real-time compatibility prediction
 
@@ -88,6 +87,10 @@ Easy-to-use form interface
 Model built using real survey data
 
 Compact and efficient model inference
+
+
+---
+
 
 ## 📁 Repository Structure
 
